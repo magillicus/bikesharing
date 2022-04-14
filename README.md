@@ -2,6 +2,9 @@
 
 This is analysis of bikesharing figures for a presentation to angel investors. Based on data collected in NYC.
 
+See my
+[link to dashboard](https://public.tableau.com/app/profile/marcus1765/viz/BikesharingChallenge_16499663476260/Presentation?publish=yes) here.
+
 # Results
 
 ## Checkout Times for Users
